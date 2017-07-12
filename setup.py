@@ -7,7 +7,6 @@ setup(
     description='A colored logger',
     long_description=open('README.md').read(),
     install_requires=[
-        "logging>=0.0.0",
         ],
     include_package_data=True,
 )
