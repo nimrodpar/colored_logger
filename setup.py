@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='coloredLogger',
+    name='colored_logger',
     version='0.1',
     scripts=['colored_logger.py'],
     packages=find_packages(),
