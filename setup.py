@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='colored_logger',
     version='0.1',
-    scripts=['colored_logger.py'],
+    py_modules=['colored_logger.py'],
     packages=find_packages(),
     url='https://github.com/nimrodpar/colored_logger',
     description='A colored logger',
